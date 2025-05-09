@@ -1,8 +1,4 @@
-<head>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap" rel="stylesheet">
-</head>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffcde5&height=260&section=header&text=Yelim%20Jeon&fontColor=fffafd&fontSize=90&animation=fadeIn&fontAlignY=43&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffcde5&height=220&section=header&text=Yelim%20Jeon&fontColor=fffafd&fontSize=70&animation=fadeIn&fontAlignY=40&section=header)
     
 <div style="display: flex; align-items: center; justify-content: center; margin-top: 20px;">
     <img align="left" src="전예림.jpg" alt="identification photo" style="width: 200px; margin-right: 20px; border-radius: 10px;">
