@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffcde5&height=220&section=header&text=Yelim%20Jeon&fontColor=fffafd&fontSize=70&animation=fadeIn&fontAlignY=40&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffcde5&height=220&section=header&text=Yelim%20Jeon&fontColor=fffafd&fontSize=65&animation=fadeIn&fontAlignY=40&section=header)
     
-<div style="display: flex; align-items: center; justify-content: center; margin-top: 20px;">
+<div style="display: flex; align-items: center; justify-content: center; margin-top: 8px;">
     <img align="left" src="전예림.jpg" alt="identification photo" style="width: 200px; margin-right: 20px; border-radius: 10px;">
     <p style="margin: 5; font-family: 'Poppins', sans-serif; font-weight: 500;">Hello! I'm <strong>Yelim</strong>.
     <br>I'm a senior in Seoul National University and currently on a leave of absence.
