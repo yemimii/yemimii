@@ -1,4 +1,13 @@
-## Hi there 👋
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffcde5&height=300&section=header&text=Yelim%20Jeon&fontColor=fffafd&fontSize=90&animation=fadeIn&fontAlignY=43"/>
+</p>
+
+<img src="전예림.jpg" alt="identification photo" style="width: 200px;">
+<p style="margin: 5;">Hello! I'm <strong>Yelim</strong>.
+<br>I'm a senior in Seoul National University and currently on a leave of absence.
+<br><br>🔽Feel free to reach out !🔽
+<br><a href="https://yemimii.github.io/my-website/yemimi.html">https://yemimii.github.io/my-website/yemimi.html</a>
+</p>
 
 <!--
 **yemimii/yemimii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
