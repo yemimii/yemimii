@@ -1,13 +1,17 @@
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffcde5&height=300&section=header&text=Yelim%20Jeon&fontColor=fffafd&fontSize=90&animation=fadeIn&fontAlignY=43"/>
-</p>
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap" rel="stylesheet">
+</head>
 
-<img src="전예림.jpg" alt="identification photo" style="width: 200px;">
-<p style="margin: 5;">Hello! I'm <strong>Yelim</strong>.
-<br>I'm a senior in Seoul National University and currently on a leave of absence.
-<br><br>🔽Feel free to reach out !🔽
-<br><a href="https://yemimii.github.io/my-website/yemimi.html">https://yemimii.github.io/my-website/yemimi.html</a>
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffcde5&height=260&section=header&text=Yelim%20Jeon&fontColor=fffafd&fontSize=90&animation=fadeIn&fontAlignY=43&section=header)
+    
+<div style="display: flex; align-items: center; justify-content: center; margin-top: 20px;">
+    <img align="left" src="전예림.jpg" alt="identification photo" style="width: 200px; margin-right: 20px; border-radius: 10px;">
+    <p style="margin: 5; font-family: 'Poppins', sans-serif; font-weight: 500;">Hello! I'm <strong>Yelim</strong>.
+    <br>I'm a senior in Seoul National University and currently on a leave of absence.
+    <br><br>🔽Feel free to reach out !🔽
+    <br><a href="https://yemimii.github.io/my-website/yemimi.html">https://yemimii.github.io/my-website/yemimi.html</a>
+    </p>
+</div>
 
 <!--
 **yemimii/yemimii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
